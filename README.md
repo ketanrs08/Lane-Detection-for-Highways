@@ -9,4 +9,6 @@ When we drive, we use our eyes to decide where to go.  The lines on the road tha
 
 Refer to the `Writeup` for more information on how the pipeline works and `jupyter` notebook `Lane Detection Pipeline` to run.  
 
+
+[![Alt text](https://img.youtube.com/vi/Klxnhy7vfx4/0.jpg)](https://youtu.be/Klxnhy7vfx4)
 ---
